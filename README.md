@@ -1,6 +1,6 @@
-# colors_switch
+# Words Generator
 
-A new Flutter project.
+A Flutter project to generate random words.
 
 ## Getting Started
 
